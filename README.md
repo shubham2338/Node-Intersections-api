@@ -8,7 +8,7 @@ such as missing linestring or invalid linestring format, appropriate error respo
 the functionality to calculate intersections between a linestring and lines.
 
 
-How the APT can be tested with Postman:
+How the API can be tested with Postman:
 
 1. Open Postman.
 2. Create a new POST request.
